@@ -1,0 +1,61 @@
+short channel effect -> calculated gm smaller than expected
+	also, even in saturation, there's weak, moderate, strong inversion
+
+1 OPAMP schematic 
+
+explain each parts, what they do 
+	P325 - 367
+	
+1.1 bias circuit
+
+current mirror, cascode current mirror -> channel length modulation
+
+1.2 resistor, zero and poles. zero resistor 
+	
+which one is main pole? why dont cancel the other?  -> zero resistor cant be too large
+
+1.3 opamp parameter tuning
+
+DC gain = 1, horizontal axis is GBW
+
+M6 W/L increase, corner fail, why?
+
+1.4 layout
+
+why common centroid layout -> differential input pairs 
+
+
+
+2. BGR
+
+2.1 start-up circuit
+
+cant find where to connnect -> 
+
+resistor // NMOS -> smaller resistor to consume some voltage
+
+2.2 PSRR
+
+three filter circuit
+
+NMOS before Rin1 Rin2 -> saturation region, capacitor
+
+PSRR why DC gain is related
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
