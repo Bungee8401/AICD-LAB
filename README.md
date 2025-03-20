@@ -16,3 +16,5 @@
     DRC check， LVS check
 
     Post layout simulation
+
+### more details are in the final report
