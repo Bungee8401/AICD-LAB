@@ -1,4 +1,4 @@
-# This is a course project. Please refer to final report for more details.
+# AICD_LAB Project
 
 ## Two Stage Miller Opamp
     build from transistor level
