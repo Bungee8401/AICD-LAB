@@ -12,6 +12,8 @@
     
     Power supply rejection ratio (PSRR)
 
+    Corner simulation and Monte Carlo simulation
+
 ## Schematics & Layouts
     DRC check， LVS check
 
